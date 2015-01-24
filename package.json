@@ -1,0 +1,9 @@
+{
+  "name": "childcommentexpander",
+  "title": "Child Comment Expander",
+  "id": "jid1-ABZAwkiJKasJxw",
+  "description": "Expands child comments in reddit submissions that use contest mode.",
+  "author": "SirNeon",
+  "license": "GPLv2",
+  "version": "1.0"
+}
